@@ -1,0 +1,7 @@
+C:\GitHub\CS_GU2309\BaiTap_W02\C# Căn Bản\TH_1\bin\Debug\TH_1.exe.config
+C:\GitHub\CS_GU2309\BaiTap_W02\C# Căn Bản\TH_1\bin\Debug\TH_1.exe
+C:\GitHub\CS_GU2309\BaiTap_W02\C# Căn Bản\TH_1\bin\Debug\TH_1.pdb
+C:\GitHub\CS_GU2309\BaiTap_W02\C# Căn Bản\TH_1\obj\Debug\TH_1.csproj.AssemblyReference.cache
+C:\GitHub\CS_GU2309\BaiTap_W02\C# Căn Bản\TH_1\obj\Debug\TH_1.csproj.CoreCompileInputs.cache
+C:\GitHub\CS_GU2309\BaiTap_W02\C# Căn Bản\TH_1\obj\Debug\TH_1.exe
+C:\GitHub\CS_GU2309\BaiTap_W02\C# Căn Bản\TH_1\obj\Debug\TH_1.pdb

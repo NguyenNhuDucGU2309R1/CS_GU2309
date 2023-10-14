@@ -10,11 +10,11 @@ namespace CGO_Buoi04
     {
         static void Main(string[] args)
         {
-           // Console.WriteLine("Hello World");
-            // Console.InputEncoding = Encoding.Unicode;
-           // Console.OutputEncoding = Encoding.Unicode;
-          //  Console.WriteLine("Nguyễn Như Đức");
-            //Console.ReadKey();
+           Console.WriteLine("Hello World");
+             Console.InputEncoding = Encoding.Unicode;
+           Console.OutputEncoding = Encoding.Unicode;
+           Console.WriteLine("Nguyễn Như Đức");
+            Console.ReadKey();
         }
     }
-}
+}   
