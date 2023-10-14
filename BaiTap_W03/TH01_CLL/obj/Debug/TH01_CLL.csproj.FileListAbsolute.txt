@@ -1,0 +1,7 @@
+C:\GitHub\CS_GU2309\BaiTap_W03\TH01_CLL\bin\Debug\TH01_CLL.exe.config
+C:\GitHub\CS_GU2309\BaiTap_W03\TH01_CLL\bin\Debug\TH01_CLL.exe
+C:\GitHub\CS_GU2309\BaiTap_W03\TH01_CLL\bin\Debug\TH01_CLL.pdb
+C:\GitHub\CS_GU2309\BaiTap_W03\TH01_CLL\obj\Debug\TH01_CLL.csproj.AssemblyReference.cache
+C:\GitHub\CS_GU2309\BaiTap_W03\TH01_CLL\obj\Debug\TH01_CLL.csproj.CoreCompileInputs.cache
+C:\GitHub\CS_GU2309\BaiTap_W03\TH01_CLL\obj\Debug\TH01_CLL.exe
+C:\GitHub\CS_GU2309\BaiTap_W03\TH01_CLL\obj\Debug\TH01_CLL.pdb

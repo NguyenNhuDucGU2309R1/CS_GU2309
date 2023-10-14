@@ -1,0 +1,7 @@
+C:\GitHub\CS_GU2309\BaiTap_W02\Cau Lenh Dieu Kien\TH02_CLDK\bin\Debug\TH02_CLDK.exe.config
+C:\GitHub\CS_GU2309\BaiTap_W02\Cau Lenh Dieu Kien\TH02_CLDK\bin\Debug\TH02_CLDK.exe
+C:\GitHub\CS_GU2309\BaiTap_W02\Cau Lenh Dieu Kien\TH02_CLDK\bin\Debug\TH02_CLDK.pdb
+C:\GitHub\CS_GU2309\BaiTap_W02\Cau Lenh Dieu Kien\TH02_CLDK\obj\Debug\TH02_CLDK.csproj.AssemblyReference.cache
+C:\GitHub\CS_GU2309\BaiTap_W02\Cau Lenh Dieu Kien\TH02_CLDK\obj\Debug\TH02_CLDK.csproj.CoreCompileInputs.cache
+C:\GitHub\CS_GU2309\BaiTap_W02\Cau Lenh Dieu Kien\TH02_CLDK\obj\Debug\TH02_CLDK.exe
+C:\GitHub\CS_GU2309\BaiTap_W02\Cau Lenh Dieu Kien\TH02_CLDK\obj\Debug\TH02_CLDK.pdb

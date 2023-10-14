@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{06C6456E-C088-46A2-93AD-C5462AAC4EF6}</ProjectGuid>
+    <ProjectGuid>{09B00CAE-C801-47C3-917B-2A8E29641C64}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CGO_Buoi04</RootNamespace>
-    <AssemblyName>CGO_Buoi04</AssemblyName>
+    <RootNamespace>TH01_CLL</RootNamespace>
+    <AssemblyName>TH01_CLL</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
