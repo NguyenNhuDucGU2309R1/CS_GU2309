@@ -17,7 +17,8 @@ namespace BT_02
             usd = float.Parse(Console.ReadLine());
             Console.Write("So tien VND: ");
             float  area = usd * vnd;
-            Console.WriteLine(vnd = area);
+            Console.WriteLine(vnd=area);
+            Console.WriteLine(vnd);
             Console.ReadKey();
                     
             
