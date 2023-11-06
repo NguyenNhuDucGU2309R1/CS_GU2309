@@ -1,0 +1,7 @@
+C:\GitHub\CS_GU2309\BaiTap_W04\BT_W04\bin\Debug\BT_W04.exe.config
+C:\GitHub\CS_GU2309\BaiTap_W04\BT_W04\bin\Debug\BT_W04.exe
+C:\GitHub\CS_GU2309\BaiTap_W04\BT_W04\bin\Debug\BT_W04.pdb
+C:\GitHub\CS_GU2309\BaiTap_W04\BT_W04\obj\Debug\BT_W04.csproj.AssemblyReference.cache
+C:\GitHub\CS_GU2309\BaiTap_W04\BT_W04\obj\Debug\BT_W04.csproj.CoreCompileInputs.cache
+C:\GitHub\CS_GU2309\BaiTap_W04\BT_W04\obj\Debug\BT_W04.exe
+C:\GitHub\CS_GU2309\BaiTap_W04\BT_W04\obj\Debug\BT_W04.pdb

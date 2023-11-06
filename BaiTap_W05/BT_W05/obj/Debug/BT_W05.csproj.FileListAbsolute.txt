@@ -1,0 +1,7 @@
+C:\GitHub\CS_GU2309\BaiTap_W05\BT_W05\obj\Debug\BT_W05.csproj.AssemblyReference.cache
+C:\GitHub\CS_GU2309\BaiTap_W05\BT_W05\obj\Debug\BT_W05.csproj.CoreCompileInputs.cache
+C:\GitHub\CS_GU2309\BaiTap_W05\BT_W05\bin\Debug\BT_W05.exe.config
+C:\GitHub\CS_GU2309\BaiTap_W05\BT_W05\bin\Debug\BT_W05.exe
+C:\GitHub\CS_GU2309\BaiTap_W05\BT_W05\bin\Debug\BT_W05.pdb
+C:\GitHub\CS_GU2309\BaiTap_W05\BT_W05\obj\Debug\BT_W05.exe
+C:\GitHub\CS_GU2309\BaiTap_W05\BT_W05\obj\Debug\BT_W05.pdb
