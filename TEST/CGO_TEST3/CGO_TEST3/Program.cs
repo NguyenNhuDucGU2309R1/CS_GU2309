@@ -26,7 +26,7 @@ namespace CGO_TEST3
         void ShowBanner()
         {
             Console.SetWindowSize(width, height + panel);
-            Console.ForegroundColor = ConsoleColor.Green;
+            Console.ForegroundColor = ConsoleColor.DarkGray;
             Console.CursorVisible = false;
 
             Console.WriteLine("============================================");

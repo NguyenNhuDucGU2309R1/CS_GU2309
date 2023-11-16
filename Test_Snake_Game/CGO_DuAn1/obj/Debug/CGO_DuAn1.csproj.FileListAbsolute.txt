@@ -1,0 +1,7 @@
+C:\GitHub\CS_GU2309\Test_Snake_Game\CGO_DuAn1\bin\Debug\CGO_DuAn1.exe.config
+C:\GitHub\CS_GU2309\Test_Snake_Game\CGO_DuAn1\bin\Debug\CGO_DuAn1.exe
+C:\GitHub\CS_GU2309\Test_Snake_Game\CGO_DuAn1\bin\Debug\CGO_DuAn1.pdb
+C:\GitHub\CS_GU2309\Test_Snake_Game\CGO_DuAn1\obj\Debug\CGO_DuAn1.csproj.AssemblyReference.cache
+C:\GitHub\CS_GU2309\Test_Snake_Game\CGO_DuAn1\obj\Debug\CGO_DuAn1.csproj.CoreCompileInputs.cache
+C:\GitHub\CS_GU2309\Test_Snake_Game\CGO_DuAn1\obj\Debug\CGO_DuAn1.exe
+C:\GitHub\CS_GU2309\Test_Snake_Game\CGO_DuAn1\obj\Debug\CGO_DuAn1.pdb

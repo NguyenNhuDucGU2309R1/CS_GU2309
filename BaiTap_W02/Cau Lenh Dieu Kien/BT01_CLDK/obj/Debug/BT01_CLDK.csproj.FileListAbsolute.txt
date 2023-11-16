@@ -1,0 +1,7 @@
+C:\GitHub\CS_GU2309\BaiTap_W02\Cau Lenh Dieu Kien\BT01_CLDK\bin\Debug\BT01_CLDK.exe.config
+C:\GitHub\CS_GU2309\BaiTap_W02\Cau Lenh Dieu Kien\BT01_CLDK\bin\Debug\BT01_CLDK.exe
+C:\GitHub\CS_GU2309\BaiTap_W02\Cau Lenh Dieu Kien\BT01_CLDK\bin\Debug\BT01_CLDK.pdb
+C:\GitHub\CS_GU2309\BaiTap_W02\Cau Lenh Dieu Kien\BT01_CLDK\obj\Debug\BT01_CLDK.csproj.AssemblyReference.cache
+C:\GitHub\CS_GU2309\BaiTap_W02\Cau Lenh Dieu Kien\BT01_CLDK\obj\Debug\BT01_CLDK.csproj.CoreCompileInputs.cache
+C:\GitHub\CS_GU2309\BaiTap_W02\Cau Lenh Dieu Kien\BT01_CLDK\obj\Debug\BT01_CLDK.exe
+C:\GitHub\CS_GU2309\BaiTap_W02\Cau Lenh Dieu Kien\BT01_CLDK\obj\Debug\BT01_CLDK.pdb

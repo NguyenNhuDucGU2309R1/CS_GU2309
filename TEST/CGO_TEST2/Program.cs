@@ -8,6 +8,9 @@ namespace CGO_TEST2
 {
     internal class Program
     {
+       
+#region     TEST
+
         public static int MinValue(int[] array)
         {
 
@@ -57,8 +60,8 @@ namespace CGO_TEST2
             Console.WriteLine(dem2);
             return list;
         }
-
-        public static void Main(String[] args)
+        #endregion
+        public static void TONG(String[] args)
         {
             int[] arr = { 4, 12, 7, 8, 1, 6, 9 };
             int index = MinValue(arr);
