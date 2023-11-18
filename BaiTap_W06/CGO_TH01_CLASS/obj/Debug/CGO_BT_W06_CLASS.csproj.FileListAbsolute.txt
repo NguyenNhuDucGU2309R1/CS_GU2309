@@ -1,0 +1,7 @@
+C:\GitHub\CS_GU2309\BaiTap_W06\CGO_TH01_CLASS\bin\Debug\CGO_TH01_CLASS.exe.config
+C:\GitHub\CS_GU2309\BaiTap_W06\CGO_TH01_CLASS\bin\Debug\CGO_TH01_CLASS.exe
+C:\GitHub\CS_GU2309\BaiTap_W06\CGO_TH01_CLASS\bin\Debug\CGO_TH01_CLASS.pdb
+C:\GitHub\CS_GU2309\BaiTap_W06\CGO_TH01_CLASS\obj\Debug\CGO_BT_W06_CLASS.csproj.AssemblyReference.cache
+C:\GitHub\CS_GU2309\BaiTap_W06\CGO_TH01_CLASS\obj\Debug\CGO_BT_W06_CLASS.csproj.CoreCompileInputs.cache
+C:\GitHub\CS_GU2309\BaiTap_W06\CGO_TH01_CLASS\obj\Debug\CGO_TH01_CLASS.exe
+C:\GitHub\CS_GU2309\BaiTap_W06\CGO_TH01_CLASS\obj\Debug\CGO_TH01_CLASS.pdb
