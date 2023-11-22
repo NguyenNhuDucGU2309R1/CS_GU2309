@@ -1,0 +1,7 @@
+C:\GitHub\CS_GU2309\CGO_W07\BT_W07\obj\Debug\BT_W07.csproj.AssemblyReference.cache
+C:\GitHub\CS_GU2309\CGO_W07\BT_W07\obj\Debug\BT_W07.csproj.CoreCompileInputs.cache
+C:\GitHub\CS_GU2309\CGO_W07\BT_W07\bin\Debug\BT_W07.exe.config
+C:\GitHub\CS_GU2309\CGO_W07\BT_W07\bin\Debug\BT_W07.exe
+C:\GitHub\CS_GU2309\CGO_W07\BT_W07\bin\Debug\BT_W07.pdb
+C:\GitHub\CS_GU2309\CGO_W07\BT_W07\obj\Debug\BT_W07.exe
+C:\GitHub\CS_GU2309\CGO_W07\BT_W07\obj\Debug\BT_W07.pdb

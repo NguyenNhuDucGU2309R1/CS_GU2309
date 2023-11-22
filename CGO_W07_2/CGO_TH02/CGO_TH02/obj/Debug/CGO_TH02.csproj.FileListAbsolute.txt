@@ -1,0 +1,7 @@
+C:\GitHub\CS_GU2309\CGO_W07_2\CGO_TH02\CGO_TH02\bin\Debug\CGO_TH02.exe.config
+C:\GitHub\CS_GU2309\CGO_W07_2\CGO_TH02\CGO_TH02\bin\Debug\CGO_TH02.exe
+C:\GitHub\CS_GU2309\CGO_W07_2\CGO_TH02\CGO_TH02\bin\Debug\CGO_TH02.pdb
+C:\GitHub\CS_GU2309\CGO_W07_2\CGO_TH02\CGO_TH02\obj\Debug\CGO_TH02.csproj.AssemblyReference.cache
+C:\GitHub\CS_GU2309\CGO_W07_2\CGO_TH02\CGO_TH02\obj\Debug\CGO_TH02.csproj.CoreCompileInputs.cache
+C:\GitHub\CS_GU2309\CGO_W07_2\CGO_TH02\CGO_TH02\obj\Debug\CGO_TH02.exe
+C:\GitHub\CS_GU2309\CGO_W07_2\CGO_TH02\CGO_TH02\obj\Debug\CGO_TH02.pdb
