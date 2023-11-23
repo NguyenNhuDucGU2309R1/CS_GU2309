@@ -1,7 +1,0 @@
-C:\GitHub\CS_GU2309\CGO_Buoi07\bin\Debug\CGO_Buoi07.exe.config
-C:\GitHub\CS_GU2309\CGO_Buoi07\bin\Debug\CGO_Buoi07.exe
-C:\GitHub\CS_GU2309\CGO_Buoi07\bin\Debug\CGO_Buoi07.pdb
-C:\GitHub\CS_GU2309\CGO_Buoi07\obj\Debug\CGO_TEST.csproj.AssemblyReference.cache
-C:\GitHub\CS_GU2309\CGO_Buoi07\obj\Debug\CGO_TEST.csproj.CoreCompileInputs.cache
-C:\GitHub\CS_GU2309\CGO_Buoi07\obj\Debug\CGO_Buoi07.exe
-C:\GitHub\CS_GU2309\CGO_Buoi07\obj\Debug\CGO_Buoi07.pdb

@@ -1,2 +1,0 @@
-C:\GitHub\CS_GU2309\CGO_Buoi07\obj\Debug\CGO_Buoi07.csproj.AssemblyReference.cache
-C:\GitHub\CS_GU2309\CGO_Buoi07\obj\Debug\CGO_Buoi07.csproj.CoreCompileInputs.cache
